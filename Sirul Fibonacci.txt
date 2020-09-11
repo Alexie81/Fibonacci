@@ -1,0 +1,12 @@
+Numerele Fibonacci sunt definite prin următoarea relație de recurență:
+
+{\displaystyle F_{0}=0,F_{1}=1,F_{i}=F_{i-1}+F_{i-2}{\mbox{ pentru }}i\geq 2{\mbox{.}}\,}{\displaystyle F_{0}=0,F_{1}=1,F_{i}=F_{i-1}+F_{i-2}{\mbox{ pentru }}i\geq 2{\mbox{.}}\,}
+Astfel, fiecare număr Fibonacci este suma celor două numere Fibonacci anterioare, rezultând secvența:
+
+{\displaystyle 0,1,1,2,3,5,8,13,21,34,55,\dots \,}{\displaystyle 0,1,1,2,3,5,8,13,21,34,55,\dots \,}
+Primele 22 de numere din șir sunt:
+
+{\displaystyle 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181,6765,10946}{\displaystyle 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181,6765,10946}
+După primele câteva numere din serie, celelalte au o proprietate interesantă: raportul dintre un număr al șirului și următorul număr din șir tinde spre 0,618; de exemplu raportul dintre 34 și 55 este aproximativ 0,618.
+
+De asemenea, raportul dintre un număr al șirului și cel aflat cu două poziții după el este aproximativ 0,382. De exemplu: 55/144 ≈ 0,382.
