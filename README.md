@@ -1,2 +1,3 @@
-Try to give me a star and go to codeblloks or VS and debug, and run :);
+# Fibonacii
+Try to give me a star and go to codeblocks or VS,debug and run :);
 Good look !
